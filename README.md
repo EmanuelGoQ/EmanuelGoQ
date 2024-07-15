@@ -1,2 +1,2 @@
-### Repositorio de Lenguajes de programación
-Realmente fue solo para el parcial 1 :)
+### Parcial 1 LP
+Personas / Parcial 1 de Lenguajes de Programación
